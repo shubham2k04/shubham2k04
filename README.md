@@ -77,9 +77,9 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 ### 📊 Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhtistic&show_icons=true&theme=noctis_minimus" 
-       alt="GitHub stats" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
+       alt="GitHub stats" style="height:140px; flex: 1 1 220px; max-width:42%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhtistic&layout=compact&theme=noctis_minimus" 
-       alt="Top Langs" style="height:150px; flex: 1 1 220px; max-width:42%;"/>
+       alt="Top Langs" style="height:140px; flex: 1 1 220px; max-width:42%;"/>
 </div>
 
 
@@ -111,4 +111,4 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 
 
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=shubh4m-2k04&theme=gruvbox&border_radius=4.5) 
+ ![GitHub Streak](https://streak-stats.demolab.com?user=Shubhtistic&theme=gruvbox&border_radius=4.5) 
