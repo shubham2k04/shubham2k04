@@ -34,11 +34,19 @@
 
 ### 🎵 Soundtrack of the Moment
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; max-width: 650px; margin:auto;">
-  <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
-    <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
-  </a>
-  <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="120" style="margin-left:20px"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://open.spotify.com/user/31urtnhjhdtd5g5faxzwestvqylm">
+          <img src="https://novatorem.visualbean.vercel.app/api/spotify" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github.com/Shubhtistic/Shubhtistic/raw/main/output/cat.gif" width="150" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
