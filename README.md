@@ -43,8 +43,10 @@ I'm an aspiring backend engineer building my version of scalable systems one ste
 </p>
 
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
+</div>
 
-<img src="https://raw.githubusercontent.com/Shubhtistic/Shubhtistic/main/output/github-snake-dark.svg" />
 
 
 ### 🛠️ Tools & Languages
